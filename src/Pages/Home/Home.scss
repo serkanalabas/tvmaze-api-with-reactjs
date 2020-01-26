@@ -1,0 +1,13 @@
+$color1: rgb(0, 110, 255);
+
+.main {
+	text-align: center;
+	
+	.titleRow {
+		margin-top: 20px;
+		margin-bottom: 20px;
+		.title {
+			color: $color1;
+		}
+	}
+}
